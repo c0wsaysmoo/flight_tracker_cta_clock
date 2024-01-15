@@ -5,4 +5,4 @@ The flight information can be found on my other project. The two numbers in the 
 The time will change color at sunrise and sunset, and the date displays the moonphase. More info can be found in the flight tracker project including better instructions
 
 
-youll need to import the "icons" folder and the "logos" folder from the plane tracker project. I dont feel like uploading them all twice.
+youll need to import the "logos" folder from the plane tracker project. I dont feel like uploading them all twice.
